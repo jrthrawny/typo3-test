@@ -17,5 +17,5 @@ return array(
     '6a47392539ca2329373e0d33e1dba053' => $vendorDir . '/symfony/polyfill-intl-icu/bootstrap.php',
     '37a3dc5111fe8f707ab4c132ef1dbc62' => $vendorDir . '/guzzlehttp/guzzle/src/functions_include.php',
     '8a197a13b1f213f3a2178168511a1b5d' => $baseDir . '/public/typo3/sysext/core/Resources/PHP/GlobalDebugFunctions.php',
-    'a775abe4c2388553c8aa384ac8886965' => $vendorDir . '/typo3/autoload-include.php',
+    '01f368d689df9bc0e426630c0c30ad4b' => $vendorDir . '/typo3/autoload-include.php',
 );

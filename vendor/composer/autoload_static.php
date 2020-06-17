@@ -18,7 +18,7 @@ class ComposerStaticInit9859e1baf1c450d1903146d656e8cd4d
         '6a47392539ca2329373e0d33e1dba053' => __DIR__ . '/..' . '/symfony/polyfill-intl-icu/bootstrap.php',
         '37a3dc5111fe8f707ab4c132ef1dbc62' => __DIR__ . '/..' . '/guzzlehttp/guzzle/src/functions_include.php',
         '8a197a13b1f213f3a2178168511a1b5d' => __DIR__ . '/../..' . '/public/typo3/sysext/core/Resources/PHP/GlobalDebugFunctions.php',
-        'a775abe4c2388553c8aa384ac8886965' => __DIR__ . '/..' . '/typo3/autoload-include.php',
+        '01f368d689df9bc0e426630c0c30ad4b' => __DIR__ . '/..' . '/typo3/autoload-include.php',
     );
 
     public static $prefixLengthsPsr4 = array (
